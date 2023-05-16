@@ -2,7 +2,7 @@
 
 **(1) A program runs at 1 second per n. How much longer will a program that runs in n^3 take than a program that runs in n^2 if n = 25. (Hint: Answer = Larger n - Smaller n)**
 
-⇒ 25*25*25 - 25*25 
+⇒ 25 * 25 * 25 - 25 * 25 
 
 **(2) Which program is overall faster? ⇒ Program A** 
 
