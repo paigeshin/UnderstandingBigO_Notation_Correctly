@@ -33,9 +33,13 @@ for data in dataList {
 }
 ```
 
+---
+
+O(n^2)
+
 ```swift
 for data in dataList {
-		 for anotherData in anotherDataList {
+     for anotherData in anotherDataList {
           if data == anotherData {
 						   print(data == anotherData)
           }
