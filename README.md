@@ -26,6 +26,8 @@ Output: O(n^2)
 
 O(n)
 
+# Code Example
+
 ```swift
 let dataList = [3, 2, 10, 5] // n = 4 
 for data in dataList {
